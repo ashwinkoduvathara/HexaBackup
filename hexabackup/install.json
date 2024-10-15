@@ -1,0 +1,12 @@
+{
+   "icon" : "hexa.svg",
+   "group_id" : "software",
+   "order" : 10,
+   "name" : "Hexa Backup",
+   "type" : "link",
+   "id" : "hexabackup",
+   "uri" : "hexabackup/hexabackup.live.php",
+   "featuremanager" : "1",
+   "target" : "_blank",
+   "description" : "Hexa Backup Plugin"
+}
